@@ -1,5 +1,5 @@
 # OLAP Cube Dispatcher Tool
-# The project is in main Branch
+# The project is in master Branch
 # Description
 The OLAP Cube Dispatcher Tool is designed to simplify the process for account managers to connect to SQL Server and generate OLAP cubes through an intuitive interface. This tool eliminates the need for SSAS Analysis Services, making it accessible to data engineer managers without extensive training or expensive resources. Account managers can easily select analysis axes, measures, create calculations, generate OLAP cubes, and dispatch them, providing full access to the generated data.
 ![Screen Shot](https://prtfnour.vercel.app/images/portfolio/project5.JPG)
